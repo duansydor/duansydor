@@ -1,8 +1,8 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=duansydor&color=006bed)
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando novas tecnologias.
 - 💼 Buscando uma oportunidade como desenvolvedor frontend.
 - 🌱 Aprendendo mais sobre ReactJS, NextJS, VueJS.
 
@@ -14,6 +14,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=white)
 
 **Utilidades**
 
@@ -27,14 +28,11 @@
 
 <br/>
 
-[![duansydor](https://github-readme-stats.vercel.app/api?username=duansydor&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![DuanSydor](https://github-readme-stats.vercel.app/api?username=duansydor&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![duansydor](https://github-readme-stats.vercel.app/api/top-langs/?username=duansydor&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duansydor&theme=dracula&show_icons=true" />
-</a>
-
+[![duansydor](https://github-readme-stats.vercel.app/api/top-langs/?username=duansydor&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duan-sydor/)](https://www.linkedin.com/in/duan-sydor/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josiasduan@gmail.com)](mailto:josiasduan@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/duansydor)
+[![Linkedin](https://img.shields.io/badge/-duansydor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duan-sydor/)](https://www.linkedin.com/in/duan-sydor/)
+[![Gmail Badge](https://img.shields.io/badge/-josiasduan@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josiasduan@gmail.com)](mailto:josiasduan@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/duansydor?label=follow&style=social)](https://github.com/duansydor)
