@@ -17,9 +17,6 @@
 
 **Utilidades**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
@@ -30,8 +27,10 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+[![duansydor](https://github-readme-stats.vercel.app/api?username=duansydor&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![duansydor](https://github-readme-stats.vercel.app/api/top-langs/?username=duansydor&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duansydor&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
