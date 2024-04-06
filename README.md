@@ -1,5 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=duansydor&color=006bed)
+<br><be>
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=9E2390&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Duan+%3A);Seja+muito+bem+vindo)](https://git.io/typing-svg)
+<br><br>
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias.
