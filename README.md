@@ -36,3 +36,8 @@
 [![Linkedin](https://img.shields.io/badge/-duansydor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duan-sydor/)](https://www.linkedin.com/in/duan-sydor/)
 [![Gmail Badge](https://img.shields.io/badge/-josiasduan@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josiasduan@gmail.com)](mailto:josiasduan@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/duansydor?label=follow&style=social)](https://github.com/duansydor)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duansydor/duansydor/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duansydor/duansydor/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/duansydor/duansydor/output/github-contribution-grid-snake.svg">
+</picture>
