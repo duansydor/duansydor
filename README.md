@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=duansydor&color=006bed)
-<br><be>
+<br><br>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=9E2390&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Duan+%3A);Seja+muito+bem+vindo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=C816C1&background=000000&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Duan+%E3%82%B7)](https://git.io/typing-svg)
 <br><br>
 ## Sobre mim
 
