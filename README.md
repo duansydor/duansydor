@@ -3,6 +3,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=C816C1&background=000000&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Duan+%E3%82%B7)](https://git.io/typing-svg)
+![](https://github.com/duansydor/duansydor/blob/main/69631011f1910fb14491371b09b7cfc6.gif)
 <br><br>
 ## Sobre mim
 
@@ -31,10 +32,13 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
-
-[![DuanSydor](https://github-readme-stats.vercel.app/api?username=duansydor&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">  
+  
+[![DuanSydor](https://github-readme-stats.vercel.app/api?username=duansydor&width=40&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![duansydor](https://github-readme-stats.vercel.app/api/top-langs/?username=duansydor&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+</div>
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-duansydor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duan-sydor/)](https://www.linkedin.com/in/duan-sydor/)
