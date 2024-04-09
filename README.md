@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=C816C1&background=000000&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Duan+%E3%82%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=C816C1&background=000000&center=true&vCenter=true&random=false&width=435&lines=Hello+my+name+is+Duan+%E3%82%B7)](https://git.io/typing-svg)
 
 <br>
 
@@ -11,15 +11,12 @@
 </div>
 <br><br>
 
-## Sobre mim
+## About me
+Hello World! Well, I'm from Brazil and I've been into programming since i was a kid, my dad used to have some CD's with a bunch of programs including Delphi, Adobe Flash, etc. Since then, my love for coding and it's comunity is growing exponencially. I didn't have so many opportunities to focus on my career but now i, as i asked for my resignation on my last job where i've been working for 5 years, i decided to dive deep on my dream, my last job (a stationery store) actually made a big difference in my comunication skills, i've even met people from different countries (i'm glad that i had the chance to practice my Arabic, Japanese and English as well). Now it's time for a change in my life, here am i, writing on the programmers hub.
 
-- 🤔 Explorando novas tecnologias.
-- 💼 Buscando uma oportunidade como desenvolvedor frontend.
-- 🌱 Aprendendo mais sobre ReactJS, NextJS, VueJS.
+## My Skills
 
-## Minhas Skills
-
-**Aplicações e dados**
+**Stacks**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -27,13 +24,10 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=white)
 
-**Utilidades**
+**Tools**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
@@ -54,7 +48,7 @@
 </div>
 </div>
 
-## Onde me encontrar
+## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-duansydor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duan-sydor/)](https://www.linkedin.com/in/duan-sydor/)
 [![Gmail Badge](https://img.shields.io/badge/-josiasduan@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josiasduan@gmail.com)](mailto:josiasduan@gmail.com)
